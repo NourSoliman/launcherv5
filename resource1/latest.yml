@@ -1,0 +1,4 @@
+version: "1.0.2"
+zipFiles:
+  - name: "nour1.zip"
+  - name: "nour2.zip"
